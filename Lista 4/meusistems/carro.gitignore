@@ -1,14 +1,7 @@
-# Java
 *.class
-
-# Pastas de compilação
 bin/
 out/
 target/
-
-# VS Code
 .vscode/
-
-# Sistema operacional
 .DS_Store
 Thumbs.db
